@@ -2,7 +2,7 @@ This is a personal project that combines my interest for computer science and bu
 ## Setting up
 
 ### Cloning
-You should be pulling from gitlab from `https://github.com/Spadinuh/Stocks/`.
+You should be pulling from gitlab from `https://github.com/Spadinuh/Stocks`.
 Otherwise, you can view the public website (https://stockxportfolio.herokuapp.com/)
 
 ### Setting up Laravel
