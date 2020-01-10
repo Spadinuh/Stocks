@@ -1,10 +1,9 @@
-# Assignment 3
-
+This is a personal project that combines my interest for computer science and business.
 ## Setting up
 
 ### Cloning
-You should be pulling from gitlab from `https://gitlab.com/dawsoncollege/php/f2018/section2/project3-stockportfolio/team1/ass3.git`.
-Otherwise, you can view the public website [HERE](https://stockxportfolio.herokuapp.com/)
+You should be pulling from gitlab from `https://github.com/Spadinuh/Stocks/`.
+Otherwise, you can view the public website (https://stockxportfolio.herokuapp.com/)
 
 ### Setting up Laravel
 1. ssh into vagrant and cd to `/code/ass3/`.
